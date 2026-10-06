@@ -1,1 +1,1 @@
-<img src="./img/dadadan.gif" width="100%" alt="só uma capa atoa"/>
+<img src="./img/oooo.gif" width="100%" alt="só uma capa atoa"/>
